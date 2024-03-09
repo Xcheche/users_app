@@ -1,6 +1,6 @@
 # users_app
 
-A new Flutter project.
+Taxi App
 
 ## Getting Started
 
